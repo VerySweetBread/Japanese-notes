@@ -1,5 +1,9 @@
 [
   "table-editor-obsidian",
   "obsidian-plugin-toc",
-  "obsidian-git"
+  "obsidian-git",
+  "symbols-prettifier",
+  "multi-column-markdown",
+  "obsidian-style-settings",
+  "obsidian-excalidraw-plugin"
 ]

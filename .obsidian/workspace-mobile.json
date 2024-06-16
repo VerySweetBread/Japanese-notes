@@ -4,18 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "0dbae8a23990b56e",
+        "id": "f89c56ea76e422ef",
         "type": "tabs",
         "children": [
           {
-            "id": "c02c7c4091747f3d",
+            "id": "2e60af74f6fd4409",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Main.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "67f93e44d4488bb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Грамматика/Части речи/Глаголы.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -125,9 +137,17 @@
           "type": "advanced-tables-toolbar",
           "state": {}
         }
+      },
+      {
+        "id": "0dc029952dd27358",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,11 +157,17 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c02c7c4091747f3d",
+  "active": "2e60af74f6fd4409",
   "lastOpenFiles": [
-    "Main.md"
+    "Грамматика/Части речи/Глаголы.md",
+    "Main.md",
+    "Грамматика/Части речи",
+    "Грамматика",
+    "Без названия.canvas",
+    "Drawing 2024-06-17 00.59.36.excalidraw.md"
   ]
 }
